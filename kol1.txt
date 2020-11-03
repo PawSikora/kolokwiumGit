@@ -6,3 +6,4 @@ Zmiana3
 Zmiana4
 prostaWersja
 Zmiana5
+OstatniaZmiana
