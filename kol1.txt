@@ -1,2 +1,7 @@
 Zmiana1
+HEAD
 naprawaBledu
+oraz
+Zmiana3
+Zmiana4
+prostaWersja
